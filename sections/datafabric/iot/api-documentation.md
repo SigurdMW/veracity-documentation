@@ -3,7 +3,7 @@ author: Veracity
 description: Description of quick start section
 ---
 
-#Veracity IoT Api
+# Veracity IoT Api
 
 Only users that has access to an asset can access data from this asset.
 
